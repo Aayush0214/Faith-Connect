@@ -109,7 +109,7 @@ SUPABASE_ANON_KEY=your_actual_anon_key_here
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/faith-connect.git](https://github.com/your-username/faith-connect.git)
+   git clone [https://github.com/Aayush0214/Faith-Connect.git](https://github.com/Aayush0214/Faith-Connect.git)
     ```  
 2. **Install dependencies**
    ```bash
